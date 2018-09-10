@@ -1,0 +1,25 @@
+{
+  "name": "canarify",
+  "version": "0.0.1",
+  "description": "A minimalistic library to implement Canary Health-check endpoints in NodeJS microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpjayasekara/canarify.git"
+  },
+  "keywords": [
+    "canary",
+    "microservices",
+    "healthcheck",
+    "health"
+  ],
+  "author": "Deepal Jayasekara <dpjayasekara@gmail.com> (jsblog.insiderattack.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpjayasekara/canarify/issues"
+  },
+  "homepage": "https://github.com/dpjayasekara/canarify#readme"
+}
