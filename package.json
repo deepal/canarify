@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/dpjayasekara/canarify/issues"
   },
-  "homepage": "https://github.com/dpjayasekara/canarify#readme"
+  "homepage": "https://github.com/dpjayasekara/canarify#readme",
+  "dependencies": {
+    "joi": "13.6.0",
+    "lru-cache": "4.1.3",
+    "q": "1.5.1"
+  }
 }

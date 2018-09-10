@@ -85,3 +85,5 @@ Call to `/health/canary` endpoint will provide the following output:
   ]
 }
 ```
+
+[x] 
