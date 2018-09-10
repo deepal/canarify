@@ -1,6 +1,6 @@
 {
   "name": "canarify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A minimalistic library to implement Canary Health-check endpoints in NodeJS microservices",
   "main": "index.js",
   "scripts": {
